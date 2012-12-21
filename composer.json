@@ -1,5 +1,5 @@
 {
-    "name": "adticket/media-backend-imagehosting",
+    "name": "adticket/media-backend-imagehosting-bundle",
     "description": "MediaBackend, makes the images publicly available",
     "type": "library",
     "homepage": "https://github.com/adticket/MediaBackendImageHostingBundle",
