@@ -45,7 +45,7 @@
  * @category DependencyInjection
  */
 
-namespace Adticket\Sf2BundleOS\MediaBackendImageHostingBundle\DependencyInjection;
+namespace Adticket\MediaBackendImageHostingBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

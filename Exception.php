@@ -45,7 +45,7 @@
  * @category Misc
  */
 
-namespace Adticket\Sf2BundleOS\MediaBackendImageHostingBundle;
+namespace Adticket\MediaBackendImageHostingBundle;
 
 use Adticket\MediaBundle\Interfaces\NewMedia;
 use Adticket\MediaBundle\Entity\InternetMediaType;

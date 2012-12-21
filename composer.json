@@ -1,0 +1,10 @@
+{
+    "name": "adticket/media-backend-imagehosting",
+    "description": "MediaBackend, makes the images publicly available",
+    "type": "library",
+    "homepage": "https://github.com/adticket/MediaBackendImageHostingBundle",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "target-dir": "Adticket/MediaBackendImageHostingBundle"
+}

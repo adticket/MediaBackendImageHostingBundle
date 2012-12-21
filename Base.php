@@ -45,7 +45,7 @@
  * @category Misc
  */
 
-namespace Adticket\Sf2BundleOS\MediaBackendImageHostingBundle;
+namespace Adticket\MediaBackendImageHostingBundle;
 
 use Symfony\Component\DependencyInjection\ContainerAwareInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;

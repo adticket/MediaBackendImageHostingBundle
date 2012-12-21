@@ -23,7 +23,7 @@
  * @category Misc
  */
 
-namespace Adticket\Sf2BundleOS\MediaBackendImageHostingBundle\Entity;
+namespace Adticket\MediaBackendImageHostingBundle\Entity;
 
 /**
  * Repräsentiert eine gehostete Datei

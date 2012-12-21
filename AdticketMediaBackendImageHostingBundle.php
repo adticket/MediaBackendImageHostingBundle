@@ -45,7 +45,7 @@
  * @category Bundle
  */
 
-namespace Adticket\Sf2BundleOS\MediaBackendImageHostingBundle;
+namespace Adticket\MediaBackendImageHostingBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

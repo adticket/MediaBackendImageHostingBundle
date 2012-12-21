@@ -3,9 +3,9 @@
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
     <parameters>
-        <parameter key="adticket.mediabackendimagehosting.backend.class">Adticket\Sf2BundleOS\MediaBackendImageHostingBundle\Backend</parameter>
-        <parameter key="adticket.mediabackendimagehosting.retrieval.class">Adticket\Sf2BundleOS\MediaBackendImageHostingBundle\Retrieval</parameter>
-        <parameter key="adticket.mediabackendimagehosting.storage.class">Adticket\Sf2BundleOS\MediaBackendImageHostingBundle\Storage</parameter>
+        <parameter key="adticket.mediabackendimagehosting.backend.class">Adticket\MediaBackendImageHostingBundle\Backend</parameter>
+        <parameter key="adticket.mediabackendimagehosting.retrieval.class">Adticket\MediaBackendImageHostingBundle\Retrieval</parameter>
+        <parameter key="adticket.mediabackendimagehosting.storage.class">Adticket\MediaBackendImageHostingBundle\Storage</parameter>
     </parameters>
 
     <services>
