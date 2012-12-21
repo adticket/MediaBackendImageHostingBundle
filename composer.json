@@ -6,5 +6,8 @@
     "require": {
         "php": ">=5.3.2"
     },
-    "target-dir": "Adticket/MediaBackendImageHostingBundle"
+    "target-dir": "Adticket/MediaBackendImageHostingBundle",
+    "autoload": {
+        "psr-0": { "Adticket\\MediaBackendImageHostingBundle": "" }
+    }
 }
