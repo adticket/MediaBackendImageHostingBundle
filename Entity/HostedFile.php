@@ -25,6 +25,8 @@
 
 namespace Adticket\MediaBackendImageHostingBundle\Entity;
 
+use Symfony\Component\Validator\Constraints as Assert;
+
 /**
  * Repräsentiert eine gehostete Datei
  *
@@ -36,7 +38,7 @@ class HostedFile implements \Adticket\MediaBundle\Interfaces\RemoteMedia, \Adtic
 {
     /**
      * @var string
-     * @Assert\Uri()
+     * @Assert\Url()
      */
     private $url;
 
